@@ -27,4 +27,4 @@ weather(city)
 
 ## Example
 
-![Example-img](https://github.com/mrpintime/weather_news/blob/main/img/weather.jpg)
+![Example-img](https://github.com/mrpintime/weather_news/blob/main/img/example.png)
