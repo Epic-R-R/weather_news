@@ -15,9 +15,9 @@ weather(city)
 > city = **required**
 
 ### What details will the program show ?
-*Humidity*
-*Precipitation*
-*Temprature*
+*Humidity\n*
+*Precipitation\n*
+*Temprature\n*
 *Wind speed*
 
 ### other info
