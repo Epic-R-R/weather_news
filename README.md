@@ -2,7 +2,7 @@
 
 # weather_news
 A simple command-line program for get details of weather from google.  
-**Program is currently in BETA**
+**Program is currently in Stable version**
 
 ### Search for a weather of your custom location:
 
