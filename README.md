@@ -1,7 +1,7 @@
 ![WeatherNews-img](https://github.com/mrpintime/weather_news/blob/main/img/weather.jpg)
 
 # weather_news
-A simple command-line program for get details of weather from google
+A simple command-line program for get details of weather from google.  
 **Program is currently in BETA**
 
 ### Search for a weather of your custom location:
