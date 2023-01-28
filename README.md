@@ -20,7 +20,11 @@ weather(city)
 *Temprature*  
 *Wind speed*
 
-### other info
-language of results is based on your ip.
-time is based on country you searched weather for.
-time of report specified before and it is not your real time, it has some diffrance.
+### Other info
+<u>Language of report is based on your ip.</u>  
+<u>Time that show in report is based on country you searched weather for.</u>  
+<u>Time of report specified before and it is not your real time, it has some tiny diffrance.</u>
+
+## Example
+
+![Example-img](https://github.com/mrpintime/weather_news/blob/main/img/weather.jpg)
